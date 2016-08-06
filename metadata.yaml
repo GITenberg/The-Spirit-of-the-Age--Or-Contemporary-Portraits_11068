@@ -1,0 +1,60 @@
+_repo: The-Spirit-of-the-Age--Or-Contemporary-Portraits_11068
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hazlitt, William
+    birthdate: 1778
+    deathdate: 1830
+    gutenberg_agent_id: '800'
+    url: http://www.gutenberg.org/2009/agents/800
+    wikipedia: http://en.wikipedia.org/wiki/William_Hazlitt
+description: "The Spirit of the Age (full title The Spirit of the Age: Or, Contemporary\
+  \ Portraits) is a collection of character sketches by the early 19th century English\
+  \ essayist, literary critic, and social commentator William Hazlitt, portraying\
+  \ 25 men, mostly British, whom he believed to represent significant trends in the\
+  \ thought, literature, and politics of his time. The subjects include thinkers,\
+  \ social reformers, politicians, poets, essayists, and novelists, many of whom Hazlitt\
+  \ was personally acquainted with or had encountered. Originally appearing in English\
+  \ periodicals, mostly The New Monthly Magazine in 1824, the essays were collected\
+  \ with several others written for the purpose and published in book form in 1825.\n\
+  The Spirit of the Age was one of Hazlitt's most successful books. It is frequently\
+  \ judged to be his masterpiece, even \"the crowning ornament of Hazlitt's career,\
+  \ and ... one of the lasting glories of nineteenth-century criticism.\" Hazlitt\
+  \ was also a painter and an art critic, yet no artists number among the subjects\
+  \ of these essays. His artistic and critical sensibility, however, infused his prose\
+  \ style—Hazlitt was later judged to be one of the greatest of English prose stylists\
+  \ as well—enabling his appreciation of portrait painting to help him bring his subjects\
+  \ to life. His experience as a literary, political, and social critic contributed\
+  \ to Hazlitt's solid understanding of his subjects' achievements, and his judgements\
+  \ of his contemporaries were later often deemed to have held good after nearly two\
+  \ centuries.\nThe Spirit of the Age, despite its essays' uneven quality, has been\
+  \ generally agreed to provide \"a vivid panorama of the age\". Yet, missing an introductory\
+  \ or concluding chapter, and with few explicit references to any themes, it was\
+  \ for long also judged as lacking in coherence and hastily thrown together. More\
+  \ recently, critics have found in it a unity of design, with the themes emerging\
+  \ gradually, by implication, in the course of the essays and even supported by their\
+  \ grouping and presentation.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11068'
+  wikidata: Q7765949
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English literature -- 19th century -- History and criticism'
+- !lcsh 'Great Britain -- Intellectual life -- 19th century'
+- !lcsh 'Great Britain -- Biography'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: Jeremy Bentham -- William Godwin -- Mr. Coleridge -- Rev. Mr. Irving
+  -- The late Mr. Horne Tooke -- Sir Walter Scott -- Lord Byron -- Mr. Campbell; Mr.
+  Crabbe -- Sir James Mackintosh -- Mr. Wordsworth -- Mr. Malthus -- Mr. Gifford --
+  Mr. Jeffrey -- Mr. Brougham; Sir F. Burdett -- Lord Eldon; Mr. Wilberforce -- Mr.
+  Southey -- Mr. T. Moore; Mr. Leigh Hunt -- Elia; Geoffrey Crayon.
+title: The Spirit of the Age; Or, Contemporary Portraits
+url: http://www.gutenberg.org/ebooks/11068
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Spirit_of_the_Age
